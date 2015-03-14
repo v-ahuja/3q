@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBA77C6E-9A2F-492B-9926-5F57BDEE23EC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>3q</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C0F1FAEEEB8FDE963A189CF2279E41EA9E7F698</key>
+		<string>https://github.com/vahuja13/3q</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3q/3q.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C0F1FAEEEB8FDE963A189CF2279E41EA9E7F698</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vahuja13/3q</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C0F1FAEEEB8FDE963A189CF2279E41EA9E7F698</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C0F1FAEEEB8FDE963A189CF2279E41EA9E7F698</string>
+			<key>IDESourceControlWCCName</key>
+			<string>3q</string>
+		</dict>
+	</array>
+</dict>
+</plist>
